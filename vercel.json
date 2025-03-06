@@ -1,5 +1,5 @@
 {
-  "regions": ["sfo1"],
+  "regions": ["sin1"],
   "build": {
     "env": {
       "NEXT_PUBLIC_BASE_URL": "@next_public_base_url"
